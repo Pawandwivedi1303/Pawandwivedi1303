@@ -1,9 +1,24 @@
 - 👋 Hi, I’m @Pawandwivedi1303
-- 👀 I’m interested in Web developing
-- 🌱 I’m currently learning React
-- 📫 How to reach me on Linkedin
 
-<!---
-Pawandwivedi1303/Pawandwivedi1303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ## About Me
+I am a passionate web developer with a focus on front-end technologies. My goal is to create visually appealing and user-friendly web experiences. I enjoy working with the latest web technologies and love to explore new frameworks and libraries.
+
+## My Skills
+
+- HTML5
+- CSS3 (including SASS/SCSS)
+- JavaScript (ES6+)
+- Responsive Web Design
+
+- ## Experience
+ 👨‍💻 I have done my internship from "Teaching Hub"
+
+- ## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/pawan-dwivedi-18a7b8280
+- Email: pawandwivedi1303@gmail.com
+
+- ## Contact
+
+Feel free to reach out to me for any web development-related discussions.
+
